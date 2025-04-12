@@ -39,7 +39,7 @@ const postSchema = new Schema({
     },
 
     visit: {
-        type: Boolean,
+        type: Number,
         default: 0,
     },
 
